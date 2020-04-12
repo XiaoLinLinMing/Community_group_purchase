@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xml>
+
+    <!--数据库配置-->
+    <DB>
+        <HOST>localhost</HOST>
+        <USERNAME>root</USERNAME>
+        <PASSWORD>Dyx9wo0XGsR74ojj</PASSWORD>
+        <DBNAME>D_BINGBING_SHOP</DBNAME>
+    </DB>
+
+    <!--目录配置-->
+    <DIR>
+        <HTTP_HOST>/miniApp/</HTTP_HOST>
+        <HOME_DIRECTORY>/miniApp/bingbing_shop/</HOME_DIRECTORY><!--工程主目录-->
+        <GOODS_IMG_SUFFIX_NAME>.jpg</GOODS_IMG_SUFFIX_NAME><!--商品图片后缀-->
+        <GOODS_COVER_DIR>/miniApp/bingbing_shop/src/goods_cover/</GOODS_COVER_DIR><!--商品封面路径-->
+        <GOODS_INFO_PTC_DIR>/miniApp/bingbing_shop/src/goods_info_ptc/</GOODS_INFO_PTC_DIR><!--商品详情图片路径-->
+        <HOMEPAGE_AD_PTC_DIR>/miniApp/bingbing_shop/src/homepage_ad/</HOMEPAGE_AD_PTC_DIR><!--主页宣传图路径-->
+        <ERROR_LOG>/miniApp/bingbing_shop/private/log/error.json</ERROR_LOG>
+    </DIR>
+
+    <!--小程序配置-->
+    <MINIPROGRAM>
+        <APP_ID>xx</APP_ID><!--小程序ID-->
+        <MCH_ID>xx</MCH_ID><!--支付商账号-->
+        <SECRET>xx</SECRET><!--支付商serect-->
+        <TRADE_TYPE>xx</TRADE_TYPE><!--支付类型 默认JSAPI-->
+        <MCH_KEY>xx</MCH_KEY><!--支付商KEY-->
+        <PAY_CALL_BACK_URL>app/bingbing_shop/private/payment/wechat_payment_call_back.php</PAY_CALL_BACK_URL><!--微信支付统一下单接口回调地址-->
+        <PAY_BODY>xx</PAY_BODY><!--微信支付描述-->
+    </MINIPROGRAM>
+
+    <!--物流配置-->
+    <LOGISTICS>
+        <!--顺丰配置-->
+        <SF>
+            <CLIENT_CODE>xx</CLIENT_CODE><!--顾客编码-->
+            <CHECK_CODE>xx</CHECK_CODE><!--顾客校验码-->
+            <MONTHLY_KNOTS>x</MONTHLY_KNOTS><!--月结卡号-->
+            <SENDER_PROVINCE>xx</SENDER_PROVINCE><!--寄件方省份-->
+            <SENDER_CITY>xx</SENDER_CITY><!--寄件方城市-->
+            <SENDER_COUNTY>xx</SENDER_COUNTY>
+            <SENDER_COMPANY>xx</SENDER_COMPANY><!--发送方组织名-->
+            <SENDER_CONTACT>xx</SENDER_CONTACT><!--发送方姓名-->
+            <SENDER_TEL>xx</SENDER_TEL>
+            <SENDER_DETAILED_ADDRESS>xx</SENDER_DETAILED_ADDRESS>
+        </SF>
+
+        <!--闪送配置-->
+        <SS>
+            <SENDER_ADDRESS>xx</SENDER_ADDRESS><!--闪送上门取件地址-->
+            <SENDER_ADDRESS_DETAILED>xx</SENDER_ADDRESS_DETAILED><!--闪送上门取件地址 店名-->
+            <SENDER_CITY>xx</SENDER_CITY>
+            <SENDER_LAT>xx</SENDER_LAT>
+            <SENDER_LNG>xx</SENDER_LNG>
+            <SENDER_TEL>xx</SENDER_TEL>
+            <SENDER_CONTACT>xx</SENDER_CONTACT>
+            <PARTNER_NO>xx</PARTNER_NO><!--闪送合作伙伴编码-->
+            <PARTNER_ID>xx</PARTNER_ID>
+            <PARTNER_MOBILE>xx</PARTNER_MOBILE><!--闪送合作伙伴绑定的手机号码-->
+            <KEY>xx</KEY><!--闪送接口KEY-->
+            <TOKEN>xx/XhbVjLkE=</TOKEN>
+            <PARTNER_COMPANY>xx</PARTNER_COMPANY>
+            <CALL_SS_EXPRESS_OPEN>http://open.ishansong.com/openapi/order/v3/calc</CALL_SS_EXPRESS_OPEN>
+            <QUERY_SS_FREIGHT>http://open.ishansong.com/openapi/order/v3/save</QUERY_SS_FREIGHT>
+            <QUERY_ORDER_INFO>http://open.s.bingex.com/openapi/order/v3/info</QUERY_ORDER_INFO>
+            <ORDER_CANCEL>http://open.s.bingex.com/openapi/order/v3/cancel</ORDER_CANCEL>
+        </SS>
+    </LOGISTICS>
+    <ERROR_CODE>
+        <PARAMETER_ERROR>5479</PARAMETER_ERROR>
+        <TOKEN_ERROR>5478</TOKEN_ERROR>
+        <TOKEN_BE_OVERDUE>5477</TOKEN_BE_OVERDUE>
+        <ILLEGAL_REQUEST>5476</ILLEGAL_REQUEST>
+        <IP_INTERCEPT>5475</IP_INTERCEPT>
+        <IP_INTERCEPT>5474</IP_INTERCEPT><!--今日暂无无数据-->
+
+    </ERROR_CODE>
+</xml>

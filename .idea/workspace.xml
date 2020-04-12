@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/public_interface/product_module/class_product_module.php" line="516" />
+    <bookmark url="file://$PROJECT_DIR$/private/private_interface/payment_module/class_payment_module.php" line="103" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c96eca52-d796-48f7-aa6d-8197c111356d" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/mobile_admin_interface/setting_module/admin_class_setting_module.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="104" column="42" lean-forward="true" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AND</find>
+      <find>FREIGHT</find>
+      <find>inser</find>
+      <find>getRandomString</find>
+      <find>openid</find>
+      <find>$merchant</find>
+      <find>$request_url</find>
+      <find>TC</find>
+      <find>T_NEW_NOTICE</find>
+      <find>substr</find>
+      <find>try</find>
+      <find>FY</find>
+      <find>DATA</find>
+      <find>to_ptc</find>
+      <find>商品类别</find>
+      <find>编辑</find>
+      <find>获取商品列表</find>
+      <find>类别</find>
+      <find>添加商品</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/private/sql/sql语句.txt" />
+        <option value="F:/index.php" />
+        <option value="$PROJECT_DIR$/_DIR_.php" />
+        <option value="$PROJECT_DIR$/common/db/db.php" />
+        <option value="$PROJECT_DIR$/common/send.php" />
+        <option value="$PROJECT_DIR$/private/log/error.json" />
+        <option value="$PROJECT_DIR$/common/db/common_class.php" />
+        <option value="$PROJECT_DIR$/common/db/Medoo-1.1.2/medoo.php" />
+        <option value="$PROJECT_DIR$/public_interface/logistics_module/class_logistics_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_ui/index.html" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/class_ini.php" />
+        <option value="$PROJECT_DIR$/public_interface/logistics_module/callSsExpress.php" />
+        <option value="$PROJECT_DIR$/public_interface/logistics_module/class_logistcs_ss_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/notice_module/class_notice_module.php" />
+        <option value="$PROJECT_DIR$/public_interface/order_module/class_order_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/admin_class_order_module.php" />
+        <option value="$PROJECT_DIR$/../../index.php" />
+        <option value="$PROJECT_DIR$/public_interface/logistics_module/class_logistics_sf_module.php" />
+        <option value="$USER_HOME$/Desktop/callSsExpress.php" />
+        <option value="$PROJECT_DIR$/public_interface/logistics_module/class_logistics_ss_module.php" />
+        <option value="$PROJECT_DIR$/private/private_interface/payment_module/class_payment_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/payment_module/admin_payment_module.php" />
+        <option value="$PROJECT_DIR$/public_interface/setting_module/class_setting_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/setting_module/class_setting_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/notice_module/admin_class_notice_module.php" />
+        <option value="$PROJECT_DIR$/public_interface/page_module/class_page_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/payment_module/admin_class_payment_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/order_module/admin_class_order_module.php" />
+        <option value="$PROJECT_DIR$/common/data_formatting.php" />
+        <option value="$PROJECT_DIR$/private/config/config.xml" />
+        <option value="$PROJECT_DIR$/public_interface/record_module/class_record_module.php" />
+        <option value="$PROJECT_DIR$/private/sql/create_table.sql" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/setting_module/admin_class_setting_module.php" />
+        <option value="$PROJECT_DIR$/admin/mobile_admin_interface/page_module/admin_class_page_module.php" />
+        <option value="$PROJECT_DIR$/public_interface/product_module/class_product_module.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="76" />
+    <option name="y" value="69" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile_admin_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile_admin_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="page_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile_admin_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="setting_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="private" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="private" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="private" type="462c0819:PsiDirectoryNode" />
+              <item name="private_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="private" type="462c0819:PsiDirectoryNode" />
+              <item name="private_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="payment_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="public_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="public_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="order_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="public_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="product_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bingbing_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bingbing_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="public_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="record_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\XAMPP_install\htdocs\miniApp\bingbing_shop\admin\mobile_admin_interface" />
+      <recent name="F:\XAMPP_install\htdocs\miniApp\bingbing_shop\admin\mobile_admin_interface\order_module" />
+      <recent name="C:\Users\Admin\Desktop\工作台\资料夹\bingbing_shop_后端重构\private\private_interface" />
+      <recent name="C:\Users\Admin\Desktop\工作台\资料夹\bingbing_shop_后端重构\public_interface" />
+      <recent name="C:\Users\Admin\Desktop\工作台\资料夹\bingbing_shop_后端重构" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bingbing_shop_后端重构/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96eca52-d796-48f7-aa6d-8197c111356d" name="默认的" comment="" />
+      <created>1582789202346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582789202346</updated>
+      <workItem from="1582789203478" duration="333000" />
+      <workItem from="1582789550216" duration="629000" />
+      <workItem from="1582790200031" duration="5170000" />
+      <workItem from="1582800467052" duration="8956000" />
+      <workItem from="1582813421221" duration="43000" />
+      <workItem from="1582813475607" duration="3887000" />
+      <workItem from="1582858339049" duration="1420000" />
+      <workItem from="1582859970100" duration="7887000" />
+      <workItem from="1582874010879" duration="1884000" />
+      <workItem from="1582885889642" duration="979000" />
+      <workItem from="1582901589420" duration="1238000" />
+      <workItem from="1582943752981" duration="8126000" />
+      <workItem from="1582978377467" duration="1914000" />
+      <workItem from="1582983874452" duration="4174000" />
+      <workItem from="1583050855754" duration="3894000" />
+      <workItem from="1583068148545" duration="3187000" />
+      <workItem from="1583114626412" duration="15258000" />
+      <workItem from="1583156656591" duration="3736000" />
+      <workItem from="1583203840688" duration="1374000" />
+      <workItem from="1583662752540" duration="813000" />
+      <workItem from="1583742634951" duration="45000" />
+      <workItem from="1583758497600" duration="1596000" />
+      <workItem from="1583761461028" duration="68000" />
+      <workItem from="1583900836653" duration="576000" />
+      <workItem from="1583982609393" duration="4596000" />
+      <workItem from="1584014757268" duration="6355000" />
+      <workItem from="1584074309663" duration="3075000" />
+      <workItem from="1584118089384" duration="4265000" />
+      <workItem from="1584256995458" duration="1653000" />
+      <workItem from="1584269665204" duration="156000" />
+      <workItem from="1584293615405" duration="217000" />
+      <workItem from="1584293908760" duration="3000" />
+      <workItem from="1584293991859" duration="274000" />
+      <workItem from="1584294316954" duration="2997000" />
+      <workItem from="1584324691244" duration="9173000" />
+      <workItem from="1584416945595" duration="3013000" />
+      <workItem from="1584528848064" duration="6608000" />
+      <workItem from="1584550357126" duration="157000" />
+      <workItem from="1584592120115" duration="14354000" />
+      <workItem from="1584689650518" duration="2353000" />
+      <workItem from="1584718000097" duration="599000" />
+      <workItem from="1584782496128" duration="728000" />
+      <workItem from="1584943361271" duration="2205000" />
+      <workItem from="1584947459722" duration="3000" />
+      <workItem from="1584952789540" duration="1384000" />
+      <workItem from="1585019929975" duration="1123000" />
+      <workItem from="1585109042542" duration="9923000" />
+      <workItem from="1585138019203" duration="599000" />
+      <workItem from="1585193257637" duration="5994000" />
+      <workItem from="1585276748344" duration="10043000" />
+      <workItem from="1585580907980" duration="2889000" />
+      <workItem from="1585622316788" duration="4223000" />
+      <workItem from="1585638171837" duration="2905000" />
+      <workItem from="1585722961441" duration="8095000" />
+      <workItem from="1585797223575" duration="7083000" />
+      <workItem from="1585894578232" duration="2474000" />
+      <workItem from="1585917824747" duration="2591000" />
+      <workItem from="1586264772430" duration="3533000" />
+      <workItem from="1586327535719" duration="4947000" />
+      <workItem from="1586444693788" duration="948000" />
+      <workItem from="1586490731240" duration="3908000" />
+      <workItem from="1586524897684" duration="2089000" />
+      <workItem from="1586590044848" duration="1198000" />
+      <workItem from="1586663286618" duration="970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="216890000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1076759" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="数据库" order="4" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13006397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="数据库" order="4" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/private/private_interface/payment_module/class_payment_module.php</url>
+          <line>192</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/homepage_ad/主页宣传图.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/SF.php" />
+    <entry file="file://F:/shansong.php" />
+    <entry file="file://F:/callSsExpress.php" />
+    <entry file="file://F:/index.php" />
+    <entry file="file://$PROJECT_DIR$/db.php" />
+    <entry file="file://$PROJECT_DIR$/../葡萄酒商城/common/common.php" />
+    <entry file="file://$PROJECT_DIR$/common/send.php" />
+    <entry file="file://$PROJECT_DIR$/../葡萄酒商城/controller/controller_goods_option.class.php" />
+    <entry file="file://$PROJECT_DIR$/../admin/weChatPayRefund.php" />
+    <entry file="file://$PROJECT_DIR$/public_interface/setting_module.php" />
+    <entry file="file://$PROJECT_DIR$/../admin/view/js/SF.php" />
+    <entry file="file://F:/wine_mall_admin/app/src/main/java/com/example/wine_mall_admin/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/隐私目录.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/客户端.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/weChatPay.php" />
+    <entry file="file://$PROJECT_DIR$/private/sql/sql语句.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/log/error.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/mobile_admin_ui/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/print_logo.php" />
+    <entry file="file://$PROJECT_DIR$/public_interface/logistics_module/callSsExpress.php" />
+    <entry file="file://$PROJECT_DIR$/common/db/common_class.php" />
+    <entry file="file://$PROJECT_DIR$/common/db/Medoo-1.1.2/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/db/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/db/Medoo-1.1.2/medoo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/getPostage.php" />
+    <entry file="file://$USER_HOME$/Desktop/callSsExpress.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-842">
+          <caret line="167" column="22" lean-forward="true" selection-start-line="167" selection-start-column="22" selection-end-line="167" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_interface/logistics_module/class_logistics_ss_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_interface/logistics_module/class_logistics_sf_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="129" column="30" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="30" />
+          <folding>
+            <element signature="n#addSfLogisticsOrder#0;n#class_logistics_sf_module#0;n#!!top" />
+            <element signature="n#getPostage#0;n#class_logistics_sf_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../thinkPHP/build.php" />
+    <entry file="file://$PROJECT_DIR$/../../thinkPHP/public/index.php" />
+    <entry file="file://$PROJECT_DIR$/../../thinkPHP/thinkphp/start.php" />
+    <entry file="file://$PROJECT_DIR$/../thinkPHP/ThinkPHP/base.php" />
+    <entry file="file://$PROJECT_DIR$/admin/mobile_admin_interface/payment_module/admin_class_payment_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="n#getRefundOrder#0;n#admin_payment_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/mobile_admin_interface/class_ini.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_interface/page_module/class_page_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="n#addClientCount#0;n#class_page_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/mobile_admin_interface/order_module/admin_class_order_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding>
+            <element signature="n#getYdOrder#0;n#admin_class_order_module#0;n#!!top" />
+            <element signature="n#getUnshippingSum#0;n#admin_class_order_module#0;n#!!top" />
+            <element signature="n#getTcOrder#0;n#admin_class_order_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/mobile_admin_interface/notice_module/admin_class_notice_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="78" column="7" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="7" />
+          <folding>
+            <element signature="n#queryRefundOrder#0;n#admin_class_notice_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_interface/record_module/class_record_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+          <folding>
+            <element signature="n#getTodayData#0;n#class_record_module#0;n#!!top" />
+            <element signature="n#getDataByDate#0;n#class_record_module#0;n#!!top" />
+            <element signature="n#addDataByField#0;n#class_record_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/config/config - 副本.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/private_interface/payment_module/class_payment_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="n#CallWeChatPay#0;n#class_payment_module#0;n#!!top" />
+            <element signature="n#getRandomString#0;n#class_payment_module#0;n#!!top" />
+            <element signature="n#getSign#0;n#class_payment_module#0;n#!!top" />
+            <element signature="n#getXmlRequestString#0;n#class_payment_module#0;n#!!top" />
+            <element signature="n#HttpPostCallWechatPay#0;n#class_payment_module#0;n#!!top" />
+            <element signature="n#xml_to_array#0;n#class_payment_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/config/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_interface/order_module/class_order_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="n#getYdOrderList#0;n#class_order_module#0;n#!!top" />
+            <element signature="n#getTcOrderList#0;n#class_order_module#0;n#!!top" />
+            <element signature="n#getMdOrderList#0;n#class_order_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/data_formatting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="67" column="24" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_interface/product_module/class_product_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1856">
+          <caret line="181" column="25" selection-start-line="181" selection-start-column="8" selection-end-line="181" selection-end-column="25" />
+          <folding>
+            <element signature="n#getProductListAdmin#0;n#class_product_module#0;n#!!top" />
+            <element signature="n#addProduct#0;n#class_product_module#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/mobile_admin_interface/page_module/admin_class_page_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="101" column="50" selection-start-line="101" selection-start-column="37" selection-end-line="101" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_DIR_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/sql/create_table.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/mobile_admin_interface/setting_module/admin_class_setting_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="104" column="42" lean-forward="true" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

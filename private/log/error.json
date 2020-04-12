@@ -1,0 +1,9 @@
+[
+  {
+    "error_msg": "错误信息",
+    "error_code": "错误代码",
+    "error_time": "错误产生时间",
+    "error_line": "错误产生的行数",
+    "error_file": "错误产生的文件"
+  }
+]
